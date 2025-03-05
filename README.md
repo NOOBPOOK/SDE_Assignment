@@ -8,6 +8,8 @@ Once inside the root directory for the project, run the command <br>
 Once the dependencies are downloaded, you have to create a `.env` file inside the folder <br>
 `
 MONGO_ENDPOINT = "Your mongodb database endpoint"
+` <br>
+`
 MONGO_DEFAULT_DB = "your mongodb database name"
 `
 
